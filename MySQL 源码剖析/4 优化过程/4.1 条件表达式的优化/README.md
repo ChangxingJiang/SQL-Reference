@@ -1,7 +1,3 @@
----
-知乎｜100 - 优化器：条件表达式的优化：https://zhuanlan.zhihu.com/p/20730157613
----
-
 目录文档：[MySQL 源码｜源码剖析文档目录](https://zhuanlan.zhihu.com/p/714761054)
 
 Github 仓库地址：[SQL-Reference](https://github.com/ChangxingJiang/SQL-Reference)
@@ -43,3 +39,8 @@ Github 仓库地址：[SQL-Reference](https://github.com/ChangxingJiang/SQL-Refe
 - [097 - 优化器：将单个等式谓词转换为多重等式谓词](https://zhuanlan.zhihu.com/p/11267690125)
 - [098 - 优化器：将多层等式谓词转换为多重等式谓词](https://zhuanlan.zhihu.com/p/20647806424)
 - [099 - 优化器：优化 WHERE、HAVING 和 JOIN 子句中的条件表达式](https://zhuanlan.zhihu.com/p/20708387581)
+
+---
+
+[知乎｜100 - 优化器：条件表达式的优化]: https://zhuanlan.zhihu.com/p/20730157613
+
