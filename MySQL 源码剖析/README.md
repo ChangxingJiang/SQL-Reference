@@ -130,16 +130,22 @@
 
 ## 4 优化过程
 
-### [4.1 条件表达式的优化](https://zhuanlan.zhihu.com/p/20730157613)
+### 4.1 条件表达式的优化
+
+[100 - 优化器：条件表达式的优化](https://zhuanlan.zhihu.com/p/20730157613)
 
 - [096 - 优化器：多重等式谓词（MEP）](https://zhuanlan.zhihu.com/p/10584216150)
 - [097 - 优化器：将单个等式谓词转换为多重等式谓词](https://zhuanlan.zhihu.com/p/11267690125)
 - [098 - 优化器：将多层等式谓词转换为多重等式谓词](https://zhuanlan.zhihu.com/p/20647806424)
 - [099 - 优化器：优化 WHERE、HAVING 和 JOIN 子句中的条件表达式](https://zhuanlan.zhihu.com/p/20708387581)
 
-### 4.2 查询树结构
+### 4.2 分区裁剪
 
-#### 4.2.1 存储语句的数据结构
+[101 - 优化器：分区裁剪](https://zhuanlan.zhihu.com/p/20759745269)
+
+### 4.x 查询树结构
+
+#### 4.x.1 存储语句的数据结构
 
 - [001 - Query_block 和 Query_expression 的连接关系](https://zhuanlan.zhihu.com/p/714579718)
 - [002 - 查询树与 Query_term 节点](https://zhuanlan.zhihu.com/p/714580521)
@@ -147,11 +153,11 @@
 - [005 - Query_term 及其子类](https://zhuanlan.zhihu.com/p/714755677)
 - [006 - Query_block 类的基本变量和方法](https://zhuanlan.zhihu.com/p/714756005)
 
-#### 4.2.2 语句执行的核心结构体
+#### 4.x.2 语句执行的核心结构体
 
 - [007 - LEX 结构体](https://zhuanlan.zhihu.com/p/714756273)
 
-### 4.3 其他优化逻辑
+### 4.x 其他优化逻辑
 
 - [088 - DML 优化器：DML 语句的执行过程](https://zhuanlan.zhihu.com/p/857293533)
 - [090 - 优化器：优化器的主要调用结构](https://zhuanlan.zhihu.com/p/899320354)
