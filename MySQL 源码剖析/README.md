@@ -37,6 +37,8 @@
 
 2.4.1：[103 - 非关键字类型的终结符](https://zhuanlan.zhihu.com/p/26114007689)
 
+2.4.2：[104 - 关键字类型的终结符](https://zhuanlan.zhihu.com/p/26372027719)
+
 ## 3 语法解析
 
 - [085 - 语法解析(V2)：语法解析入口逻辑](https://zhuanlan.zhihu.com/p/720995765)
