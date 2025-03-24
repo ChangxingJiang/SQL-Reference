@@ -18,6 +18,8 @@
 
 ### 2.2 状态及状态转移
 
+第 1 版：
+
 - [008 - 词法解析：lex_one_token 函数外层逻辑](https://zhuanlan.zhihu.com/p/714756661)
 - [009 - 词法解析：自动机状态转移矩阵](https://zhuanlan.zhihu.com/p/714757250)
 - [010 - 词法解析：状态及状态转移规则（1）](https://zhuanlan.zhihu.com/p/714757384)
@@ -28,6 +30,13 @@
 - [018 - 词法解析：状态及状态转移规则（6）](https://zhuanlan.zhihu.com/p/714759996)
 - [019 - 词法解析：状态及状态转移规则（7）](https://zhuanlan.zhihu.com/p/714760147)
 - [021 - 词法解析：状态转移逻辑梳理](https://zhuanlan.zhihu.com/p/714760407)
+
+第 2 版：
+
+- [MySQL 源码｜105 - 词法解析：状态转移逻辑（运算符）](https://zhuanlan.zhihu.com/p/32478841292)
+- [MySQL 源码｜106 - 词法解析：状态转移逻辑（标识符）](https://zhuanlan.zhihu.com/p/32479435171)
+- [MySQL 源码｜107 - 词法解析：状态转移逻辑（字面值）](https://zhuanlan.zhihu.com/p/32479758473)
+- [MySQL 源码｜108 - 词法解析：状态转移逻辑（其他符号）](https://zhuanlan.zhihu.com/p/32479980351)
 
 ### 2.3 调用方法
 
